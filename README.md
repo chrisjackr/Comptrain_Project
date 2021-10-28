@@ -89,7 +89,7 @@
 
 This project is a simple webscraper that collects a CrossFit workout that is posted daily on the COMPTRAIN website. The script also saves the date and description to a file-based SQL database. The purpose of this project was to practise webscraping with _requests_, html parsing with _bs4_ and database manipulation with _sqlite3_. 
 
-UPDATE:   See <a href="https://github.com/chrisjackr/Comptrain_Project">here</a> for my most recent webscraping project.
+UPDATE:   See <a href="https://github.com/chrisjackr/SugarWOD_Project">here</a> for my most recent webscraping project.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
